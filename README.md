@@ -1,4 +1,4 @@
-💻 Frontend Developer | React & TailwindCSS  
+💻 Frontend Developer | HTML, CSS & JavaScript  
 
 🎨 Passionate about clean UI and responsive design  
 
