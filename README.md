@@ -1,8 +1,8 @@
-🔭 I’m currently working on Web Development Projects
+💻 Frontend Developer | React & TailwindCSS  
 
-🌱 I’m currently learning JavaScript
+🎨 Passionate about clean UI and responsive design  
 
-👯 I’m looking to collaborate on Web Development Projects
+🚀 Building fast and user-friendly web interfaces
 
 💬 Ask me about Technology and Web-Development
 
