@@ -6,6 +6,6 @@
 
 💬 Ask me about Technology and Web-Development
 
-📫 How to reach me: tuananhduhocsinh2003@gmail.com
+📫 How to reach me: tuananhdu1712@gmail.com
 
 😄 Pronouns: He/Him
