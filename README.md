@@ -1,4 +1,4 @@
-💻 Frontend Developer | HTML, CSS & JavaScript  
+💻 Frontend Developer | Angular, HTML, CSS, Typescript & JavaScript  
 
 🎨 Passionate about clean UI and responsive design  
 
